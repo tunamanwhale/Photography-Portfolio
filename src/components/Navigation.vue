@@ -189,7 +189,7 @@ nav {
         width: 90%;
         margin: auto;
         height: auto;
-        padding: 60px 16px;
+        padding: 50px 16px;
         // logo
         .logo {
             display: block;
@@ -297,7 +297,7 @@ nav {
                     }
                     a {
                         font-family: "Raleway", sans-serif;
-                        font-size: 20px;
+                        font-size: 18px;
                         text-decoration: none;
                         color: #363636;
                     }

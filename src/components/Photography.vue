@@ -371,7 +371,7 @@ section {
     position: relative;
     width: 100vw !important;
     left: 0;
-    height: calc(-120px + 100vh) !important;
+    height: calc(-100px + 100vh) !important;
     h1 {
         position: absolute;
         width: 100%;
