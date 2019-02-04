@@ -23,22 +23,13 @@
             <div class="custom-navigation">
                 <ul>
                     <li>
-                        <router-link :to="'/photography'" exact>
-                            photography
-                            <span>.</span>
-                        </router-link>
+                        <router-link :to="'/photography'" exact>PHOTOGRAPHY</router-link>
                     </li>
                     <li>
-                        <router-link :to="'/about'" exact>
-                            about
-                            <span>.</span>
-                        </router-link>
+                        <router-link :to="'/about'" exact>ABOUT</router-link>
                     </li>
                     <li>
-                        <router-link :to="'/contact'" exact>
-                            contact
-                            <span>.</span>
-                        </router-link>
+                        <router-link :to="'/contact'" exact>CONTACT</router-link>
                     </li>
                 </ul>
             </div>
@@ -197,7 +188,8 @@ export default {
             margin-bottom: 20px;
             font-size: 150px;
             font-weight: 100;
-            font-family: "Elianto";
+            font-family: "Raleway";
+            font-weight: 600;
             line-height: 135px;
             color: white;
             @include maxquery(640px) {
@@ -296,9 +288,9 @@ export default {
                     text-align: center;
                 }
                 a {
-                    font-size: 27px;
-                    font-weight: 900;
-                    font-family: "Elianto";
+                    font-size: 23px;
+                    font-weight: 500;
+                    font-family: "Raleway";
                     text-decoration: none;
                     color: white !important;
                 }

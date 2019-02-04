@@ -6,7 +6,6 @@
                 <router-link :to="'/'" exact>
                     <p width="380" height="199" class="logo-txt">ID</p>
                     <div class="logo-bg-holder">
-                        <div class="logo-bg oval-big"></div>
                         <div class="logo-bg oval-small"></div>
                         <div class="logo-bg circle"></div>
                     </div>

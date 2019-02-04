@@ -270,6 +270,10 @@ export default {
 </script>
 
 <style lang="scss">
+html,
+body {
+    overflow-y: auto !important;
+}
 .buttonholder {
     position: absolute;
     width: 100%;

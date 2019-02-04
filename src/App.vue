@@ -58,8 +58,8 @@ body {
     margin: 0;
     padding: 0;
     overflow-x: hidden !important;
+    overflow: hidden;
     // background-image: url("https://lh3.googleusercontent.com/-ZmHTsfkMTCM/XE3cO72yUtI/AAAAAAAAHSk/Rs302LhLOUgTS7OzU5g5fTycr0wtcyxvQCL0BGAYYCw/h1367/LSD_7273.jpg");
-    zoom: 100%;
     width: 100%;
     min-height: 100%;
     min-height: 100vh;
@@ -102,7 +102,7 @@ body {
     // headlines
     h1 {
         font-family: "Raleway", sans-serif;
-        font-size: 40px;
+        font-size: 32px;
         font-weight: 400;
     }
     h2 {
