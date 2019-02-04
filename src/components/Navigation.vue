@@ -380,7 +380,18 @@ nav {
 }
 @media only screen and (max-width: 577px) {
     .main-navigation ul {
-        margin-top: -10px !important;
+        margin-top: 0px !important;
+    }
+    .logo {
+        margin-top: 20px;
+    }
+}
+@media only screen and (max-width: 1500px) {
+    .navigation {
+        padding: 43px 10px !important;
+    }
+    a {
+        font-size: 17px !important;
     }
 }
 </style>

@@ -475,7 +475,7 @@ section {
     &-navigation {
         &-button {
             position: absolute;
-            top: -1rem;
+            top: 0rem;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -526,13 +526,44 @@ section {
         transform-origin: 0 0;
     }
 }
+@media only screen and (max-width: 1500px) {
+    section {
+        height: calc(-86px + 100vh) !important;
+        .slideshow-pagination {
+            bottom: 2rem;
+        }
+        h1 {
+            top: 23vh;
+            font-size: 2rem !important;
+        }
+        .slide-title {
+            margin-top: -4rem;
+        }
+        .buttonholder {
+            top: 52vh;
+            .button {
+                padding: 1rem 0rem;
+                a {
+                    padding: 2rem 2rem;
+                }
+            }
+        }
+    }
+}
 @media only screen and (max-width: 600px) {
     section h1 {
         font-size: 25px !important;
-        margin-top: 90px;
+        margin-top: 80px;
     }
     .slide-title {
         font-size: 40px;
+        margin-top: -0rem !important;
+    }
+    .button {
+        padding: 1rem;
+    }
+    .button a {
+        padding: 0rem 1rem;
     }
 }
 </style>

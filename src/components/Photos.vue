@@ -1251,17 +1251,17 @@ html:not(.lazy-images) .gallery-item a:after {
 }
 @media (min-width: 640px) and (max-width: 1019px) {
     .gallery {
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(4, 1fr);
     }
 }
-@media (1260px-px: 1020px) {
+@media (min-width: 1020px) {
     .gallery {
         grid-template-columns: repeat(4, 1fr);
     }
 }
 @media (min-width: 1260px) and (max-width: 1599px) {
     .gallery {
-        grid-template-columns: repeat(5, 1fr);
+        grid-template-columns: repeat(6, 1fr);
     }
 }
 @media (min-width: 1600px) {

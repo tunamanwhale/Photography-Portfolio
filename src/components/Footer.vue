@@ -83,4 +83,15 @@ export default {
         }
     }
 }
+@media only screen and (max-width: 1500px) {
+    .footer-inner {
+        padding: 18px 0 !important;
+    }
+    a {
+        font-size: 15px !important;
+    }
+    .copyright {
+        font-size: 12px !important;
+    }
+}
 </style>
