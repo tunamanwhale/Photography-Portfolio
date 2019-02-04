@@ -92,6 +92,10 @@ export default {
         }
     }
 }
+html,
+body {
+    overflow-y: auto !important;
+}
 .author-holder {
     width: 80%;
     margin: auto;

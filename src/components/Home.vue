@@ -293,6 +293,11 @@ export default {
                     font-family: "Raleway";
                     text-decoration: none;
                     color: white !important;
+                    opacity: 1;
+                    transition: 0.5s !important;
+                    &:hover {
+                        opacity: 0.7;
+                    }
                 }
             }
         }

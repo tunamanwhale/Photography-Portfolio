@@ -51,6 +51,10 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+html,
+body {
+    overflow-y: auto !important;
+}
 // mixins - media query
 @mixin maxquery($width, $ratio: false) {
     @if $ratio {

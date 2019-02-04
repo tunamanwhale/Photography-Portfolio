@@ -35,6 +35,10 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+html,
+body {
+    overflow-y: auto !important;
+}
 h1 {
     font-family: "Raleway", sans-serif !important;
     font-size: 40px !important;
