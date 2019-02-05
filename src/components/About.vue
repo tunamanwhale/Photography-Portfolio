@@ -45,7 +45,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="#" target="_blank">
+                        <a href="https://github.com/haharkagain" target="_blank">
                             <div class="logo-bg-holder">
                                 <div class="logo-bg social-oval-small rotating-slow"></div>
                             </div>
