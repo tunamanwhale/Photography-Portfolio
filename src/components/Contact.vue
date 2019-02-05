@@ -18,7 +18,7 @@
             <div class="social">
                 <ul>
                     <li>
-                        <a href="mailto:hello@coidea.website" target="_blank">
+                        <a href="#" target="_blank">
                             <div class="logo-bg-holder">
                                 <div class="logo-bg social-circle"></div>
                             </div>
