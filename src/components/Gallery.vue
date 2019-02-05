@@ -6,7 +6,7 @@
             <!-- headline END -->
             <!-- content START -->
             <div class="content">
-                <p>Shot on a Nikon D750 with passion.</p>
+                <p>Shot with passion on a Nikon D750.</p>
             </div>
             <!-- content END -->
         </div>
