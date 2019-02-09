@@ -36,7 +36,7 @@
             </div>
             <div class="buttonholder">
                 <button class="button">
-                    <router-link :to="'/gallery'" exact>SEE MORE</router-link>
+                    <router-link class="link" :to="'/gallery'" exact>SEE MORE</router-link>
 
                     <div class="button__horizontal"></div>
                     <div class="button__vertical"></div>
@@ -280,7 +280,7 @@ body {
     text-align: center;
     top: 55vh;
     margin: auto;
-    z-index: 699;
+    z-index: 2;
 }
 .button {
     --offset: 10px;
@@ -323,7 +323,7 @@ body {
         right: var(--vertical-offset, 0);
         bottom: var(--horizontal-offset, 0);
         left: var(--vertical-offset, 0);
-        transition: transform 0.8s ease;
+        transition: transform 0.3s ease;
         will-change: transform;
 
         &::before {
