@@ -7,7 +7,11 @@
                 itemscope
                 itemtype="http://schema.org/ImageObject"
             >
-                <a itemprop="contentUrl" data-size="2000x1000">
+                <a
+                    itemprop="contentUrl"
+                    data-size="3000x2000"
+                    href="https://lh3.googleusercontent.com/-l9SCTL58XB4/XE4DO-tlVrI/AAAAAAAAHWM/QrFZjtUALZI9KKe0E8GEVmAqmW9b_GF0QCL0BGAYYCw/h1367/LSD_5129.jpg"
+                >
                     <img
                         class="lazyload lazypreload fadein"
                         src="https://lh3.googleusercontent.com/-l9SCTL58XB4/XE4DO-tlVrI/AAAAAAAAHWM/QrFZjtUALZI9KKe0E8GEVmAqmW9b_GF0QCL0BGAYYCw/h1367/LSD_5129.jpg"
@@ -25,7 +29,11 @@
                 itemscope
                 itemtype="http://schema.org/ImageObject"
             >
-                <a itemprop="contentUrl" data-size="1000x2000">
+                <a
+                    href="https://lh3.googleusercontent.com/-QHuQjkkq4zw/XE4Fv7vNvJI/AAAAAAAAHXg/GgD4nV-LWu0IEo7E00wTOBmO1LyU8DDuwCL0BGAYYCw/h1367/LSD_4086.jpg"
+                    itemprop="contentUrl"
+                    data-size="3000x2000"
+                >
                     <img
                         class="lazyload lazypreload fadein"
                         src="https://lh3.googleusercontent.com/-QHuQjkkq4zw/XE4Fv7vNvJI/AAAAAAAAHXg/GgD4nV-LWu0IEo7E00wTOBmO1LyU8DDuwCL0BGAYYCw/h1367/LSD_4086.jpg"
@@ -46,7 +54,7 @@
                 itemscope
                 itemtype="http://schema.org/ImageObject"
             >
-                <a itemprop="contentUrl" data-size="1000x1000">
+                <a itemprop="contentUrl" data-size="3000x2000">
                     <img
                         class="lazyload lazypreload fadein"
                         src="https://lh3.googleusercontent.com/-r85p33O4ymk/XE4EvBRyP7I/AAAAAAAAHXA/j-rLGJ-hpc4r-xF_J4IglSGdEsWOo6xogCL0BGAYYCw/h1367/LSD_1845.jpg"
@@ -65,7 +73,7 @@
                 itemscope
                 itemtype="http://schema.org/ImageObject"
             >
-                <a itemprop="contentUrl" data-size="1000x2000">
+                <a itemprop="contentUrl" data-size="3000x2000">
                     <img
                         class="lazyload lazypreload fadein"
                         src="https://lh3.googleusercontent.com/-wnfUsfGz5Gg/XE4C1jNDUwI/AAAAAAAAHWE/Cip8tDtAUsYIDK0317D2BFjeR3LucyYqACL0BGAYYCw/h1367/LSD_5044.jpg"
@@ -81,7 +89,7 @@
                 itemscope
                 itemtype="http://schema.org/ImageObject"
             >
-                <a itemprop="contentUrl" data-size="1000x1000">
+                <a itemprop="contentUrl" data-size="3000x2000">
                     <img
                         class="lazyload lazypreload fadein"
                         src="https://lh3.googleusercontent.com/-gsRqKXU39GE/XE3bgWhJyfI/AAAAAAAAHR8/va7-QYbM2fkKlNV-3ikVHlyRT0fIYb_qQCL0BGAYYCw/h1367/LSD_9159.jpg"
@@ -100,7 +108,7 @@
                 itemscope
                 itemtype="http://schema.org/ImageObject"
             >
-                <a itemprop="contentUrl" data-size="1000x2000">
+                <a itemprop="contentUrl" data-size="3000x2000">
                     <img
                         class="lazyload lazypreload fadein"
                         src="https://lh3.googleusercontent.com/-Ljs0DdJfcJI/XE3bjv--wiI/AAAAAAAAHR8/2CQyrBsvEWUn0-ffYe3Esn7crVwT2EotwCL0BGAYYCw/h1367/LSD_9165.jpg"
@@ -119,7 +127,7 @@
                 itemscope
                 itemtype="http://schema.org/ImageObject"
             >
-                <a itemprop="contentUrl" data-size="1000x1000">
+                <a itemprop="contentUrl" data-size="3000x2000">
                     <img
                         class="lazyload lazypreload fadein"
                         src="https://lh3.googleusercontent.com/-n8LlsDMItWA/XE4EmC_zi5I/AAAAAAAAHXA/jLt4zhiV3B4N3OXl_kPrNA8pP36rPzbJgCL0BGAYYCw/h1367/LSD_9059.jpg"
@@ -137,7 +145,7 @@
                 itemscope
                 itemtype="http://schema.org/ImageObject"
             >
-                <a itemprop="contentUrl" data-size="2000x1000">
+                <a itemprop="contentUrl" data-size="3000x2000">
                     <img
                         class="lazyload lazypreload fadein"
                         src="https://lh3.googleusercontent.com/-Yi2bwjNE9fU/XE3ciluQcQI/AAAAAAAAHTI/A7d_TfkocB0xl0HQmgYqDY1j1_5Z6KuLACL0BGAYYCw/h1367/LSD_5300.jpg"
@@ -155,7 +163,7 @@
                 itemscope
                 itemtype="http://schema.org/ImageObject"
             >
-                <a itemprop="contentUrl" data-size="1000x1000">
+                <a itemprop="contentUrl" data-size="3000x2000">
                     <img
                         class="lazyload lazypreload fadein"
                         src="https://lh3.googleusercontent.com/-WifZaoMo0Tg/XE4ARqoLPYI/AAAAAAAAHUo/BaIgBKTzxLcwmlEp3Hofz78Yc0AScwxlwCL0BGAYYCw/h1367/LSD_5346.jpg"
@@ -173,7 +181,7 @@
                 itemscope
                 itemtype="http://schema.org/ImageObject"
             >
-                <a itemprop="contentUrl" data-size="1000x2000">
+                <a itemprop="contentUrl" data-size="3000x2000">
                     <img
                         class="lazyload lazypreload fadein"
                         src="https://lh3.googleusercontent.com/-4Vh9KpZwbr0/XE4AEFjiDPI/AAAAAAAAHUo/Jzcwp0b9ZQ0rcB_hU_rsJ1_oPbW5USkvwCL0BGAYYCw/h1367/LSD_8466.jpg"
@@ -192,7 +200,7 @@
                 itemscope
                 itemtype="http://schema.org/ImageObject"
             >
-                <a itemprop="contentUrl" data-size="1000x2000">
+                <a itemprop="contentUrl" data-size="3000x2000">
                     <img
                         class="lazyload lazypreload fadein"
                         src="https://lh3.googleusercontent.com/-wBjGDCSL0HQ/XE3-mcWYsQI/AAAAAAAAHTs/NzXSPJK1XmUB5_tJrvrxg4MPe8pbYchwwCL0BGAYYCw/h1367/LSD_0596.jpg"
@@ -210,7 +218,7 @@
                 itemscope
                 itemtype="http://schema.org/ImageObject"
             >
-                <a itemprop="contentUrl" data-size="1000x1000">
+                <a itemprop="contentUrl" data-size="3000x2000">
                     <img
                         class="lazyload lazypreload fadein"
                         src="https://lh3.googleusercontent.com/-TVMR_QB1hAg/XE4GPeBw9EI/AAAAAAAAHX0/3MYI5IPfo7YyfxV2v5QPupgPxXyzX8sMQCL0BGAYYCw/h1363/DSC_7784.jpg"
@@ -1194,7 +1202,7 @@ html:not(.touchevents) .gallery-caption {
     color: rgba(255, 255, 255, 0);
     padding: 1.25em 1.5em;
     transition: all 0.2s ease;
-    font-weight: 400;
+    font-weight: 500;
     line-height: 1.25;
     text-align: center;
     box-sizing: border-box;
@@ -1213,7 +1221,7 @@ html:not(.touchevents) .gallery-caption:after {
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.8);
     width: 100%;
     height: 100%;
     transition: all 0.3s ease 0s;
