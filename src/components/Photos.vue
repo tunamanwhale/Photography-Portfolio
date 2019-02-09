@@ -54,7 +54,11 @@
                 itemscope
                 itemtype="http://schema.org/ImageObject"
             >
-                <a itemprop="contentUrl" data-size="3000x2000">
+                <a
+                    itemprop="contentUrl"
+                    data-size="3000x2000"
+                    href="https://lh3.googleusercontent.com/-r85p33O4ymk/XE4EvBRyP7I/AAAAAAAAHXA/j-rLGJ-hpc4r-xF_J4IglSGdEsWOo6xogCL0BGAYYCw/h1367/LSD_1845.jpg"
+                >
                     <img
                         class="lazyload lazypreload fadein"
                         src="https://lh3.googleusercontent.com/-r85p33O4ymk/XE4EvBRyP7I/AAAAAAAAHXA/j-rLGJ-hpc4r-xF_J4IglSGdEsWOo6xogCL0BGAYYCw/h1367/LSD_1845.jpg"
@@ -73,7 +77,11 @@
                 itemscope
                 itemtype="http://schema.org/ImageObject"
             >
-                <a itemprop="contentUrl" data-size="3000x2000">
+                <a
+                    itemprop="contentUrl"
+                    data-size="3000x2000"
+                    href="https://lh3.googleusercontent.com/-wnfUsfGz5Gg/XE4C1jNDUwI/AAAAAAAAHWE/Cip8tDtAUsYIDK0317D2BFjeR3LucyYqACL0BGAYYCw/h1367/LSD_5044.jpg"
+                >
                     <img
                         class="lazyload lazypreload fadein"
                         src="https://lh3.googleusercontent.com/-wnfUsfGz5Gg/XE4C1jNDUwI/AAAAAAAAHWE/Cip8tDtAUsYIDK0317D2BFjeR3LucyYqACL0BGAYYCw/h1367/LSD_5044.jpg"
@@ -89,7 +97,11 @@
                 itemscope
                 itemtype="http://schema.org/ImageObject"
             >
-                <a itemprop="contentUrl" data-size="3000x2000">
+                <a
+                    itemprop="contentUrl"
+                    data-size="3000x2000"
+                    href="https://lh3.googleusercontent.com/-gsRqKXU39GE/XE3bgWhJyfI/AAAAAAAAHR8/va7-QYbM2fkKlNV-3ikVHlyRT0fIYb_qQCL0BGAYYCw/h1367/LSD_9159.jpg"
+                >
                     <img
                         class="lazyload lazypreload fadein"
                         src="https://lh3.googleusercontent.com/-gsRqKXU39GE/XE3bgWhJyfI/AAAAAAAAHR8/va7-QYbM2fkKlNV-3ikVHlyRT0fIYb_qQCL0BGAYYCw/h1367/LSD_9159.jpg"
@@ -108,7 +120,11 @@
                 itemscope
                 itemtype="http://schema.org/ImageObject"
             >
-                <a itemprop="contentUrl" data-size="3000x2000">
+                <a
+                    itemprop="contentUrl"
+                    data-size="3000x2000"
+                    href="https://lh3.googleusercontent.com/-Ljs0DdJfcJI/XE3bjv--wiI/AAAAAAAAHR8/2CQyrBsvEWUn0-ffYe3Esn7crVwT2EotwCL0BGAYYCw/h1367/LSD_9165.jpg"
+                >
                     <img
                         class="lazyload lazypreload fadein"
                         src="https://lh3.googleusercontent.com/-Ljs0DdJfcJI/XE3bjv--wiI/AAAAAAAAHR8/2CQyrBsvEWUn0-ffYe3Esn7crVwT2EotwCL0BGAYYCw/h1367/LSD_9165.jpg"
@@ -127,7 +143,11 @@
                 itemscope
                 itemtype="http://schema.org/ImageObject"
             >
-                <a itemprop="contentUrl" data-size="3000x2000">
+                <a
+                    itemprop="contentUrl"
+                    data-size="3000x2000"
+                    href="https://lh3.googleusercontent.com/-n8LlsDMItWA/XE4EmC_zi5I/AAAAAAAAHXA/jLt4zhiV3B4N3OXl_kPrNA8pP36rPzbJgCL0BGAYYCw/h1367/LSD_9059.jpg"
+                >
                     <img
                         class="lazyload lazypreload fadein"
                         src="https://lh3.googleusercontent.com/-n8LlsDMItWA/XE4EmC_zi5I/AAAAAAAAHXA/jLt4zhiV3B4N3OXl_kPrNA8pP36rPzbJgCL0BGAYYCw/h1367/LSD_9059.jpg"
@@ -145,7 +165,11 @@
                 itemscope
                 itemtype="http://schema.org/ImageObject"
             >
-                <a itemprop="contentUrl" data-size="3000x2000">
+                <a
+                    itemprop="contentUrl"
+                    data-size="3000x2000"
+                    href="https://lh3.googleusercontent.com/-Yi2bwjNE9fU/XE3ciluQcQI/AAAAAAAAHTI/A7d_TfkocB0xl0HQmgYqDY1j1_5Z6KuLACL0BGAYYCw/h1367/LSD_5300.jpg"
+                >
                     <img
                         class="lazyload lazypreload fadein"
                         src="https://lh3.googleusercontent.com/-Yi2bwjNE9fU/XE3ciluQcQI/AAAAAAAAHTI/A7d_TfkocB0xl0HQmgYqDY1j1_5Z6KuLACL0BGAYYCw/h1367/LSD_5300.jpg"
@@ -163,7 +187,11 @@
                 itemscope
                 itemtype="http://schema.org/ImageObject"
             >
-                <a itemprop="contentUrl" data-size="3000x2000">
+                <a
+                    itemprop="contentUrl"
+                    data-size="3000x2000"
+                    href="https://lh3.googleusercontent.com/-WifZaoMo0Tg/XE4ARqoLPYI/AAAAAAAAHUo/BaIgBKTzxLcwmlEp3Hofz78Yc0AScwxlwCL0BGAYYCw/h1367/LSD_5346.jpg"
+                >
                     <img
                         class="lazyload lazypreload fadein"
                         src="https://lh3.googleusercontent.com/-WifZaoMo0Tg/XE4ARqoLPYI/AAAAAAAAHUo/BaIgBKTzxLcwmlEp3Hofz78Yc0AScwxlwCL0BGAYYCw/h1367/LSD_5346.jpg"
@@ -181,7 +209,11 @@
                 itemscope
                 itemtype="http://schema.org/ImageObject"
             >
-                <a itemprop="contentUrl" data-size="3000x2000">
+                <a
+                    itemprop="contentUrl"
+                    data-size="3000x2000"
+                    href="https://lh3.googleusercontent.com/-4Vh9KpZwbr0/XE4AEFjiDPI/AAAAAAAAHUo/Jzcwp0b9ZQ0rcB_hU_rsJ1_oPbW5USkvwCL0BGAYYCw/h1367/LSD_8466.jpg"
+                >
                     <img
                         class="lazyload lazypreload fadein"
                         src="https://lh3.googleusercontent.com/-4Vh9KpZwbr0/XE4AEFjiDPI/AAAAAAAAHUo/Jzcwp0b9ZQ0rcB_hU_rsJ1_oPbW5USkvwCL0BGAYYCw/h1367/LSD_8466.jpg"
@@ -200,7 +232,11 @@
                 itemscope
                 itemtype="http://schema.org/ImageObject"
             >
-                <a itemprop="contentUrl" data-size="3000x2000">
+                <a
+                    itemprop="contentUrl"
+                    data-size="3000x2000"
+                    href="https://lh3.googleusercontent.com/-wBjGDCSL0HQ/XE3-mcWYsQI/AAAAAAAAHTs/NzXSPJK1XmUB5_tJrvrxg4MPe8pbYchwwCL0BGAYYCw/h1367/LSD_0596.jpg"
+                >
                     <img
                         class="lazyload lazypreload fadein"
                         src="https://lh3.googleusercontent.com/-wBjGDCSL0HQ/XE3-mcWYsQI/AAAAAAAAHTs/NzXSPJK1XmUB5_tJrvrxg4MPe8pbYchwwCL0BGAYYCw/h1367/LSD_0596.jpg"
@@ -218,7 +254,11 @@
                 itemscope
                 itemtype="http://schema.org/ImageObject"
             >
-                <a itemprop="contentUrl" data-size="3000x2000">
+                <a
+                    itemprop="contentUrl"
+                    data-size="3000x2000"
+                    href="https://lh3.googleusercontent.com/-TVMR_QB1hAg/XE4GPeBw9EI/AAAAAAAAHX0/3MYI5IPfo7YyfxV2v5QPupgPxXyzX8sMQCL0BGAYYCw/h1363/DSC_7784.jpg"
+                >
                     <img
                         class="lazyload lazypreload fadein"
                         src="https://lh3.googleusercontent.com/-TVMR_QB1hAg/XE4GPeBw9EI/AAAAAAAAHX0/3MYI5IPfo7YyfxV2v5QPupgPxXyzX8sMQCL0BGAYYCw/h1363/DSC_7784.jpg"
@@ -256,7 +296,6 @@
                         <!-- Controls are self-explanatory. Order can be changed.-->
                         <div class="pswp__counter"></div>
                         <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
-                        <button class="pswp__button pswp__button--share" title="Share"></button>
                         <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
                         <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
                         <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR-->
@@ -281,7 +320,7 @@
                         title="Next (arrow right)"
                     ></button>
                     <div class="pswp__caption">
-                        <div class="pswp__caption__center"></div>
+                        <div class="pswp__caption__center" style="text-align: center"></div>
                     </div>
                 </div>
             </div>
@@ -1200,6 +1239,7 @@ html:not(.touchevents) .gallery-caption {
     transform: translate(-50%, 0%);
     font-size: 12px;
     color: rgba(255, 255, 255, 0);
+    text-align: center;
     padding: 1.25em 1.5em;
     transition: all 0.2s ease;
     font-weight: 500;
